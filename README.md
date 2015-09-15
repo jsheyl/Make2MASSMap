@@ -14,8 +14,6 @@ The brightest sources in the 2MASS Extended Source catalogue are concentrated in
 
 ![0.01-0.02.png](0.01-0.02.png)
 
-<img alt="" src="0.01-0.02.png" title="0.01-0.02.png" />
-
 The next higher redshift bin 10.6 &lt; K &lt; 11.5 (0.02 &lt; z &lt; 0.03, 80 to 120 Mpc) shows smaller scale structures but the structure from the brighter map is also obvious. This is simply because the more local large scale structure contains inherently faint as well as bright galaxies. We believe that a cut in colour as well as magnitude could allieviate this echoing, or it could be removed from spherical harmonic representation of the higher redshift density distribution. These are left for future work. The incompleteness of the catalogue in the Galactic plane is also becoming more apparent.
 
 A best guess galaxy density distribution for the region of sky behind the Galactic plane could be obtained by masking out the Galactic plane entirely and calculating the spherical harmonic representation of the galaxy distribution including the mask and then generating a new density distribution from the spherical harmonic representation. This is left for future work as well.
@@ -24,10 +22,6 @@ The FITS file is [0.02-0.03.fits](https://www.dropbox.com/s/cet912rzzpqmpyh/0.02
 
 ![0.02-0.03.png](0.02-0.03.png)
 
-<img alt="0.02-0.03.png" height="540" src="0.02-0.03.png" title="0.02-0.03.png" width="850" />
-
 In the faintest bin considered 11.5 &lt; K &lt; 12.1 ( 0.03 &lt; z &lt; 0.04, 120 to 160 Mpc), even smaller angular-scale structures are apparent. The incompletness near the galactic centre is more pronounced as well. The FITS file is [0.03-0.04.fits](https://www.dropbox.com/s/wnjcom8tedpoa5w/0.03-0.04.fits?dl=0).
 
 ![0.03-0.04.png](0.03-0.04.png)
-
-<img alt="0.03-0.04.png" height="540" src="0.03-0.04.png" title="0.03-0.04.png" width="850" />
