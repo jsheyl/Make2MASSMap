@@ -12,7 +12,7 @@ To demonstrate this we use the 2MASS Extended Source catalogue ([Strutskie et al
 
 The brightest sources in the 2MASS Extended Source catalogue are concentrated in the Galactic plane and aren't likely to be galaxies at all. For this lowest redshift range a catalogue of nearby galaxies with redshifts and shapes is more appropriate, and we are currently building maps from such a catalogue. The next lowest redshift range produced by the script of 9.1 &lt; K &lt; 10.6 (0.01 &lt; z &lt; 0.02, 40 to 80 Mpc) highlights the large-scale structure nicely (a FITS map is available as well: [0.01-0.02.fits](https://www.dropbox.com/s/4fzi4g4jmtz9rqt/0.01-0.02.fits?dl=0))
 
-!0.01-0.02.png
+!(0.01-0.02.png)
 
 <img alt="0.01-0.02.png" src="0.01-0.02.png" title="0.01-0.02.png" />
 
