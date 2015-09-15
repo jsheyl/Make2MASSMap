@@ -20,8 +20,8 @@ A best guess galaxy density distribution for the region of sky behind the Galact
 
 The FITS file is [[https://www.dropbox.com/s/cet912rzzpqmpyh/0.02-0.03.fits?dl=0][0.02-0.03.fits]].
 
-<img alt="0.02-0.03.png" height="540" src="%ATTACHURL%/0.02-0.03.png" title="0.02-0.03.png" width="850" />
+<img alt="0.02-0.03.png" height="540" src="0.02-0.03.png" title="0.02-0.03.png" width="850" />
 
 In the faintest bin considered 11.5 &lt; K &lt; 12.1 ( 0.03 &lt; z &lt; 0.04, 120 to 160 Mpc), even smaller angular-scale structures are apparent. The incompletness near the galactic centre is more pronounced as well. The FITS file is [[https://www.dropbox.com/s/wnjcom8tedpoa5w/0.03-0.04.fits?dl=0][0.03-0.04.fits]].
 
-<img alt="0.03-0.04.png" height="540" src="%ATTACHURL%/0.03-0.04.png" title="0.03-0.04.png" width="850" />
+<img alt="0.03-0.04.png" height="540" src="0.03-0.04.png" title="0.03-0.04.png" width="850" />
