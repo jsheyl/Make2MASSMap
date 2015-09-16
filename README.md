@@ -27,4 +27,5 @@ In the faintest bin considered 11.5 &lt; K &lt; 12.1 ( 0.03 &lt; z &lt; 0.04, 12
 ![0.03-0.04.png](0.03-0.04.png)
 
 Elisa Antolini
+
 Jeremy Heyl ( heyl@phas.ubc.ca )
