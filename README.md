@@ -25,3 +25,6 @@ The FITS file is [0.02-0.03.fits](https://www.dropbox.com/s/cet912rzzpqmpyh/0.02
 In the faintest bin considered 11.5 &lt; K &lt; 12.1 ( 0.03 &lt; z &lt; 0.04, 120 to 160 Mpc), even smaller angular-scale structures are apparent. The incompletness near the galactic centre is more pronounced as well. The FITS file is [0.03-0.04.fits](https://www.dropbox.com/s/wnjcom8tedpoa5w/0.03-0.04.fits?dl=0).
 
 ![0.03-0.04.png](0.03-0.04.png)
+
+Elisa Antolini
+Jeremy Heyl ( heyl@phas.ubc.ca )
